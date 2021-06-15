@@ -1,1 +1,3 @@
-# dw-typewriter-example-2
+# Typewriter text example
+
+A typewriter text example.
